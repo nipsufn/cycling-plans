@@ -55,7 +55,3 @@
 - Karczma w Jeleśni ([wiki](https://pl.wikipedia.org/wiki/Karczma_w_Jele%C5%9Bni))
 - Zespół pałacowy w Rajczy ([wiki](https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Rajczy))
 - Pałac w Czechowicach-Dziedzicach ([wiki](https://pl.wikipedia.org/wiki/Pa%C5%82ac_Kotuli%C5%84skich))
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MjQyMTk1LDIwNzUwMjI1MjIsMzA0ND
-k0MTc1LDExMjY2MDE5NjddfQ==
--->
