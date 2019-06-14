@@ -11,12 +11,12 @@
 | | Ilość miejsc | 60 |
 | | Strona www / Email | http://schroniskowisla.pl/cennik.html |
 | | | ssm@schroniskowisla.pl |
-| __Rajcza__ | Adres | Sól Oźna 34-370 Rajcza |
-| | Dyrektor / Kierownik | Joanna Pietraszko |
-| | Telefon | (+48) 33 864-33-55 |
-| | Ilość miejsc | 26 |
-| | Strona www / Email | http://schroniska-ptsm.pl/ |
-| | | recepcja@schroniska-ptsm.pl |
+| ~~Rajcza~~ | ~~Adres~~ | ~~Sól Oźna 34-370 Rajcza~~ |
+| | ~~Dyrektor / Kierownik~~ | ~~Joanna Pietraszko~~ |
+| | ~~Telefon~~ | ~~(+48) 33 864-41-43~~ |
+| | ~~Ilość miejsc~~ | ~~26~~ |
+| | ~~Strona www / Email~~ | ~~http://schroniska-ptsm.pl/~~ |
+| | | ~~recepcja@schroniska-ptsm.pl~~ |
 | __Rajcza__ | Adres | Nickulina 374 34-370 Rajcza |
 | | Dyrektor / Kierownik | Joanna Pietraszko |
 | | Telefon | (+48) 33 864-33-55 |
