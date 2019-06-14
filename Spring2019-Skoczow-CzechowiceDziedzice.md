@@ -1,17 +1,17 @@
 ### Noclegi:
 [Trasa point-2-point przez noclegi](https://maps.openrouteservice.org/directions?n1=49.70712&n2=19.229246&n3=13&a=49.793619,18.789495,49.637751,18.946235,49.520908,19.027039,49.502513,19.097156,49.58232,19.34373,49.728449,19.125429,49.686166,19.210731,49.914745,19.005904&b=1a&c=0&g1=-1&g2=0&h2=3&k1=en-US&k2=km)
-| Lokacja ----|                      |                            |
-| ----------- | -------------------- | -------------------------- |
-| Malinka     | Adres                | ul.Malinka 79 43-460 Wisła |
-|             | Dyrektor / Kierownik | Ryszard Lewicki            |
-|             | Telefon              | (+48) 33 855-36-49         |
-|             |                      | (+48) 783-966-770          |
-|             | tel/fax              | (+48) 33 854-22-40         |
-|             | Ilość miejsc         | 60                         |
-|             | Strona www / Email   | [http://schroniskowisla.pl/cennik.html] |
-|             |                      | ssm@schroniskowisla.pl     |
-| Sól Kiczora | Adres                | Sól Oźna 34-370 Rajcza     |
-| | Dyrektor / Kierownik | Joanna Pietraszko          |
+| Lokacja | a | b |
+| --- | --- | --- |
+| Malinka | Adres | ul.Malinka 79 43-460 Wisła |
+| | Dyrektor / Kierownik | Ryszard Lewicki |
+| | Telefon | (+48) 33 855-36-49 |
+| | | (+48) 783-966-770 |
+| | tel/fax | (+48) 33 854-22-40 |
+| | Ilość miejsc | 60 |
+| | Strona www / Email | [http://schroniskowisla.pl/cennik.html] |
+| | | ssm@schroniskowisla.pl |
+| Sól Kiczora | Adres | Sól Oźna 34-370 Rajcza |
+| | Dyrektor / Kierownik | Joanna Pietraszko |
 | | Telefon | (+48) 33 864-41-43 |
 | | Ilość miejsc | 26 |
 | | Strona www / Email | [http://schroniska-ptsm.pl/] |
