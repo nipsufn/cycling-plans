@@ -26,14 +26,14 @@
 - [Czorsztyn Castle](http://www.zamekwczorsztynie.pl/) 1A,1B
 - [Niedzica Castle](https://zamekniedzica.pl/) 1A,1B
 - [Dobczyce Castle](http://zamek.dobczyce.pl/) 2A,2B
-- [Rożnów Castle Ruins](https://pl.wikipedia.org/wiki/Zamek_w_Ro%C5%BCnowie) 3B
-- Rożanów Dam 3B
-- [Tropsztyn Stronghold](https://pl.wikipedia.org/wiki/Zamek_Tropsztyn) 3B
-- [Czchów Tower](https://pl.wikipedia.org/wiki/Zamek_w_Czchowie) 3B
-- [Dudnikowscy Manor](http://malopolska.przyjedztu.pl/Dwor-Dunikowskich---Stroze_f_14_ido_3387) 3B
-- Lusławice Manor 3B
+- [Rożnów Castle Ruins](https://pl.wikipedia.org/wiki/Zamek_w_Ro%C5%BCnowie) 2C
+- Rożanów Dam 2C
+- [Tropsztyn Stronghold](https://pl.wikipedia.org/wiki/Zamek_Tropsztyn) 2C
+- [Czchów Tower](https://pl.wikipedia.org/wiki/Zamek_w_Czchowie) 2C
+- [Dudnikowscy Manor](http://malopolska.przyjedztu.pl/Dwor-Dunikowskich---Stroze_f_14_ido_3387) 2C
+- Lusławice Manor 2C
     - [Wikipedia](https://pl.wikipedia.org/wiki/Lus%C5%82awice_(wojew%C3%B3dztwo_ma%C5%82opolskie))
     - [Official page?](https://penderecki-center.pl/o-nas)
-- [Janów Neogothic Manor](http://www.parki.org.pl/parki-dworskie-i-przypalacowe/kompleks-parkowo---palacowy-w-janowicach_) 3B
-- [Phonograph Museum, Castle, etc. in Niepołomice](http://www.muzeum.niepolomice.pl/index.php/muzeum-fonografii) 3B
-- [Kopiec Grunwaldzki (Grunwald Barrow)](https://pl.wikipedia.org/wiki/Kopiec_Grunwaldzki_w_Niepo%C5%82omicach) 3B
+- [Janów Neogothic Manor](http://www.parki.org.pl/parki-dworskie-i-przypalacowe/kompleks-parkowo---palacowy-w-janowicach_) 2C
+- [Phonograph Museum, Castle, etc. in Niepołomice](http://www.muzeum.niepolomice.pl/index.php/muzeum-fonografii) 2C
+- [Kopiec Grunwaldzki (Grunwald Barrow)](https://pl.wikipedia.org/wiki/Kopiec_Grunwaldzki_w_Niepo%C5%82omicach) 2C
