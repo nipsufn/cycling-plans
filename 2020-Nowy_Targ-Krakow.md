@@ -21,6 +21,19 @@
 - Tarnów (vicinity) (~85KM) 2C
 
 ### To visit
+- Source: [Polska Niezwykla](http://mapa.polskaniezwykla.pl/)
+- [Łopuszna Manor](http://archiwalna.muzeumtatrzanskie.pl/?strona,menu,pol,glowna,1393,0,1394,ant.html) 1A,1B
 - [Czorsztyn Castle](http://www.zamekwczorsztynie.pl/) 1A,1B
 - [Niedzica Castle](https://zamekniedzica.pl/) 1A,1B
 - [Dobczyce Castle](http://zamek.dobczyce.pl/) 2A,2B
+- [Rożnów Castle Ruins](https://pl.wikipedia.org/wiki/Zamek_w_Ro%C5%BCnowie) 3B
+- Rożanów Dam 3B
+- [Tropsztyn Stronghold](https://pl.wikipedia.org/wiki/Zamek_Tropsztyn) 3B
+- [Czchów Tower](https://pl.wikipedia.org/wiki/Zamek_w_Czchowie) 3B
+- [Dudnikowscy Manor](http://malopolska.przyjedztu.pl/Dwor-Dunikowskich---Stroze_f_14_ido_3387) 3B
+- Lusławice Manor 3B
+    - [Wikipedia](https://pl.wikipedia.org/wiki/Lus%C5%82awice_(wojew%C3%B3dztwo_ma%C5%82opolskie))
+    - [Official page?](https://penderecki-center.pl/o-nas)
+- [Janów Neogothic Manor](http://www.parki.org.pl/parki-dworskie-i-przypalacowe/kompleks-parkowo---palacowy-w-janowicach_) 3B
+- [Phonograph Museum, Castle, etc. in Niepołomice](http://www.muzeum.niepolomice.pl/index.php/muzeum-fonografii) 3B
+- [Kopiec Grunwaldzki (Grunwald Barrow)](https://pl.wikipedia.org/wiki/Kopiec_Grunwaldzki_w_Niepo%C5%82omicach) 3B
