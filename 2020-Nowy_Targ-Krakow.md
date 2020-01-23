@@ -13,15 +13,24 @@
 [OpenRouteService map | Variant C | 160KM | avoids main roads; follows main cycling routes](https://maps.openrouteservice.org/directions?n1=49.739569&n2=20.43457&n3=10&a=49.625029,20.691333,49.678903,20.733433,49.767351,20.686483,49.79074,20.712018,49.944855,20.876148,49.986552,20.86853,50.02383,20.232053,50.052179,20.179825,50.069756,20.106611,50.063806,20.091333,50.062924,20.05065,50.068055,19.945185&b=1a&c=0&k1=en-US&k2=km&s)
 
 ### First Night
-- Szczawnica (~70KM) 1A,1B
-- Stary Sącz (~100/110KM) 1A/1B
+- Szczawnica (S1 ~70KM) 1A,1B
+- Stary Sącz (S2 ~110/100KM) 1A/1B
 
 ### Second Night
-- Lelity/Gdów (~60/85KM) 2A/2B
-- Tarnów (vicinity) (~85KM) 2C
+- Dobczyce
+	- 1A S1 2A - 120KM
+	- 1B S1 2A - 110KM
+	- 1A,1B S2 2A - 80KM
+	- 1A S1 2B - 150KM
+	- 1B S1 2B - 140KM
+	- 1A,1B S2 2B - 80KM
+- Tarnów (vicinity)
+	- 1A S1 2C - 130KM
+	- 1B S1 2C - 120KM
+	- 1A,1B S2 2C - 90KM
 
 ### To visit
-- Source: [Polska Niezwykla](http://mapa.polskaniezwykla.pl/)
+Source: [Polska Niezwykla](http://mapa.polskaniezwykla.pl/)
 - [Łopuszna Manor](http://archiwalna.muzeumtatrzanskie.pl/?strona,menu,pol,glowna,1393,0,1394,ant.html) 1A,1B
 - [Czorsztyn Castle](http://www.zamekwczorsztynie.pl/) 1A,1B
 - [Niedzica Castle](https://zamekniedzica.pl/) 1A,1B
