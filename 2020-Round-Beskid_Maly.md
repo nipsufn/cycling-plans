@@ -11,7 +11,7 @@
 Source: [Polska Niezwykla](http://mapa.polskaniezwykla.pl/)
 - [Wapiennink w Radziechowach](http://www.straznicyczasu.pl/viewtopic.php?t=2795)
 - [Żywiec Brewery Museum](https://muzeumbrowaru.pl/)
-- [Habsburg Manor in Żywiec](http://www.muzeum-zywiec.pl_
+- [Habsburg Manor in Żywiec](http://www.muzeum-zywiec.pl)
 - [Jeleśnia Inn (Karczma w Jeleśni)](https://pl.wikipedia.org/wiki/Karczma_w_Jele%C5%9Bni)
 - ["Small Wawel" Castle in Sucha Beskidzka](https://www.muzeum.sucha-beskidzka.pl/ceny_biletow.html)
 - [Rome Inn (Karczma Rzym)](http://www.karczma-rzym.com/okarczmie.html)
