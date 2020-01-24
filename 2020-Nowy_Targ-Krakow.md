@@ -29,10 +29,10 @@
     - 1A,1B S2 2C - 90KM
 
 ### To visit
-Source: [Polska Niezwykla](http://mapa.polskaniezwykla.pl/)
 - [Łopuszna Manor](http://archiwalna.muzeumtatrzanskie.pl/?strona,menu,pol,glowna,1393,0,1394,ant.html) 1A,1B
 - [Czorsztyn Castle](http://www.zamekwczorsztynie.pl/) 1A,1B
 - [Niedzica Castle](https://zamekniedzica.pl/) 1A,1B
+- [Red Monastery (Czerwony Klasztor)](http://www.muzeumcervenyklastor.sk/) 1A,1B
 - [Dobczyce Castle](http://zamek.dobczyce.pl/) 2A,2B
 - [Rożnów Castle Ruins](https://pl.wikipedia.org/wiki/Zamek_w_Ro%C5%BCnowie) 2C
 - Rożanów Dam 2C
@@ -45,3 +45,7 @@ Source: [Polska Niezwykla](http://mapa.polskaniezwykla.pl/)
 - [Janów Neogothic Manor](http://www.parki.org.pl/parki-dworskie-i-przypalacowe/kompleks-parkowo---palacowy-w-janowicach_) 2C
 - [Phonograph Museum, Castle, etc. in Niepołomice](http://www.muzeum.niepolomice.pl/index.php/muzeum-fonografii) 2C
 - [Kopiec Grunwaldzki (Grunwald Barrow)](https://pl.wikipedia.org/wiki/Kopiec_Grunwaldzki_w_Niepo%C5%82omicach) 2C
+
+### Sources
+- [Polska Niezwykla](http://mapa.polskaniezwykla.pl/)
+- [Google Maps](https://maps.google.com)
