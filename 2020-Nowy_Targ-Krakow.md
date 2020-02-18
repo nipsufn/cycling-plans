@@ -13,7 +13,9 @@
 
 #### Part 3 - Dobczyce (2A, 2B) / Tarnów (2C) -> Kraków / Jurków
 [OpenRouteService map | Variant A | 68KM | from Dobczyce](https://maps.openrouteservice.org/directions?n1=49.929124&n2=20.243683&n3=11&a=49.877062,20.085744,49.982937,20.059812,50.017012,20.032443,50.068055,19.945185&b=1a&c=0&k1=en-US&k2=km)
+
 [OpenRouteService map | Variant B | 90KM | from Tarnów](https://maps.openrouteservice.org/directions?n1=50.029358&n2=20.405731&n3=11&a=49.986552,20.86853,50.02383,20.232053,50.052179,20.179825,50.069756,20.106611,50.063806,20.091333,50.062924,20.05065,50.068055,19.945185&b=1a&c=0&k1=en-US&k2=km)
+
 [OpenRouteService map | Variant C | 55KM | from Tarnów to Jurków](https://maps.openrouteservice.org/directions?n1=50.095917&n2=20.964661&n3=10&a=49.986552,20.86853,50.358091,20.641658&b=1a&c=0&k1=en-US&k2=km)
 ### First Night
 - Szczawnica (S1 ~70KM) 1A,1B
